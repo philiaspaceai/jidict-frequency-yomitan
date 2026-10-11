@@ -1,0 +1,11354 @@
+[
+ [
+  "あ",
+  "freq",
+  {
+   "reading": "あ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "あきらめる",
+  "freq",
+  {
+   "reading": "あきらめる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "あやまる",
+  "freq",
+  {
+   "reading": "あやまる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ある日",
+  "freq",
+  {
+   "reading": "あるひ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "いけない",
+  "freq",
+  {
+   "reading": "いけない",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "いや",
+  "freq",
+  {
+   "reading": "いや",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "いろんな",
+  "freq",
+  {
+   "reading": "いろんな",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "うまい",
+  "freq",
+  {
+   "reading": "うまい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ええと",
+  "freq",
+  {
+   "reading": "ええと",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "おかしい",
+  "freq",
+  {
+   "reading": "おかしい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "おくれる",
+  "freq",
+  {
+   "reading": "おくれる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "おしゃべり",
+  "freq",
+  {
+   "reading": "おしゃべり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "おる",
+  "freq",
+  {
+   "reading": "おる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "お凸",
+  "freq",
+  {
+   "reading": "おでこ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "お宅",
+  "freq",
+  {
+   "reading": "おたく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "お客さん",
+  "freq",
+  {
+   "reading": "おきゃくさん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "お年寄り",
+  "freq",
+  {
+   "reading": "おとしより",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "お礼",
+  "freq",
+  {
+   "reading": "おれい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "お陰",
+  "freq",
+  {
+   "reading": "おかげ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "かっこいい",
+  "freq",
+  {
+   "reading": "かっこいい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "かなり",
+  "freq",
+  {
+   "reading": "かなり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "がっかり",
+  "freq",
+  {
+   "reading": "がっかり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "きちんと",
+  "freq",
+  {
+   "reading": "きちんと",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "きっと",
+  "freq",
+  {
+   "reading": "きっと",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "きんじょ",
+  "freq",
+  {
+   "reading": "きんじょ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "けいかく",
+  "freq",
+  {
+   "reading": "けいかく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "けが",
+  "freq",
+  {
+   "reading": "けが",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "けしき",
+  "freq",
+  {
+   "reading": "けしき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "けれど",
+  "freq",
+  {
+   "reading": "けれど",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "けれども",
+  "freq",
+  {
+   "reading": "けれども",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "こしょう",
+  "freq",
+  {
+   "reading": "こしょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "この間",
+  "freq",
+  {
+   "reading": "このあいだ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "この頃",
+  "freq",
+  {
+   "reading": "このごろ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "こむ",
+  "freq",
+  {
+   "reading": "こむ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "これまで",
+  "freq",
+  {
+   "reading": "これまで",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "こわす",
+  "freq",
+  {
+   "reading": "こわす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ごみ",
+  "freq",
+  {
+   "reading": "ごみ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ごみ箱",
+  "freq",
+  {
+   "reading": "ごみばこ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ご馳走",
+  "freq",
+  {
+   "reading": "ごちそう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "さす",
+  "freq",
+  {
+   "reading": "さす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "さっき",
+  "freq",
+  {
+   "reading": "さっき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ざあざあ",
+  "freq",
+  {
+   "reading": "ざあざあ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "しかり",
+  "freq",
+  {
+   "reading": "しかり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "しっかり",
+  "freq",
+  {
+   "reading": "しっかり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "しっぱいする",
+  "freq",
+  {
+   "reading": "しっぱいする",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "しまい",
+  "freq",
+  {
+   "reading": "しまい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "しまう",
+  "freq",
+  {
+   "reading": "しまう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "しゃべる",
+  "freq",
+  {
+   "reading": "しゃべる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "しょうたい",
+  "freq",
+  {
+   "reading": "しょうたい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "しんぱい",
+  "freq",
+  {
+   "reading": "しんぱい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "じゅんびする",
+  "freq",
+  {
+   "reading": "じゅんびする",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "じんこう",
+  "freq",
+  {
+   "reading": "じんこう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "すっかり",
+  "freq",
+  {
+   "reading": "すっかり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "すると",
+  "freq",
+  {
+   "reading": "すると",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ずつ",
+  "freq",
+  {
+   "reading": "ずつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "せいこうする",
+  "freq",
+  {
+   "reading": "せいこうする",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "せまい",
+  "freq",
+  {
+   "reading": "せまい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ぜひ",
+  "freq",
+  {
+   "reading": "ぜひ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "そうだ",
+  "freq",
+  {
+   "reading": "そうだ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "そうだんする",
+  "freq",
+  {
+   "reading": "そうだんする",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "そだてる",
+  "freq",
+  {
+   "reading": "そだてる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "そのまま",
+  "freq",
+  {
+   "reading": "そのまま",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "その上",
+  "freq",
+  {
+   "reading": "そのうえ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "その後",
+  "freq",
+  {
+   "reading": "そのあと",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "それぞれ",
+  "freq",
+  {
+   "reading": "それぞれ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "それで",
+  "freq",
+  {
+   "reading": "それで",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "それとも",
+  "freq",
+  {
+   "reading": "それとも",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "それなら",
+  "freq",
+  {
+   "reading": "それなら",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "それに",
+  "freq",
+  {
+   "reading": "それに",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "たおれる",
+  "freq",
+  {
+   "reading": "たおれる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "たった今",
+  "freq",
+  {
+   "reading": "たったいま",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "たのむ",
+  "freq",
+  {
+   "reading": "たのむ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "たぶん",
+  "freq",
+  {
+   "reading": "たぶん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ため",
+  "freq",
+  {
+   "reading": "ため",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "だけど",
+  "freq",
+  {
+   "reading": "だけど",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "だったら",
+  "freq",
+  {
+   "reading": "だったら",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "だって",
+  "freq",
+  {
+   "reading": "だって",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "だめ",
+  "freq",
+  {
+   "reading": "だめ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ちっとも",
+  "freq",
+  {
+   "reading": "ちっとも",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ちゃんと",
+  "freq",
+  {
+   "reading": "ちゃんと",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "つく",
+  "freq",
+  {
+   "reading": "つく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "つたわる",
+  "freq",
+  {
+   "reading": "つたわる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "つもり",
+  "freq",
+  {
+   "reading": "つもり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "つらい",
+  "freq",
+  {
+   "reading": "つらい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ていねい",
+  "freq",
+  {
+   "reading": "ていねい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "てつだう",
+  "freq",
+  {
+   "reading": "てつだう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ところで",
+  "freq",
+  {
+   "reading": "ところで",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "どんどん",
+  "freq",
+  {
+   "reading": "どんどん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "なおす",
+  "freq",
+  {
+   "reading": "なおす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "なかなか",
+  "freq",
+  {
+   "reading": "なかなか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "なくす",
+  "freq",
+  {
+   "reading": "なくす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "なさる",
+  "freq",
+  {
+   "reading": "なさる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "なる",
+  "freq",
+  {
+   "reading": "なる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "なるほど",
+  "freq",
+  {
+   "reading": "なるほど",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "にげる",
+  "freq",
+  {
+   "reading": "にげる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "にこにこ",
+  "freq",
+  {
+   "reading": "にこにこ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "にんじん",
+  "freq",
+  {
+   "reading": "にんじん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ねつ",
+  "freq",
+  {
+   "reading": "ねつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "はく",
+  "freq",
+  {
+   "reading": "はく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "はじめに",
+  "freq",
+  {
+   "reading": "はじめに",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "はっきり",
+  "freq",
+  {
+   "reading": "はっきり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ひどい",
+  "freq",
+  {
+   "reading": "ひどい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ひろい",
+  "freq",
+  {
+   "reading": "ひろい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "びっくり",
+  "freq",
+  {
+   "reading": "びっくり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ふべん",
+  "freq",
+  {
+   "reading": "ふべん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "へえ",
+  "freq",
+  {
+   "reading": "へえ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ほとんど",
+  "freq",
+  {
+   "reading": "ほとんど",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ほめる",
+  "freq",
+  {
+   "reading": "ほめる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "または",
+  "freq",
+  {
+   "reading": "または",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "まだまだ",
+  "freq",
+  {
+   "reading": "まだまだ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "まにあう",
+  "freq",
+  {
+   "reading": "まにあう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "まま",
+  "freq",
+  {
+   "reading": "まま",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "まよう",
+  "freq",
+  {
+   "reading": "まよう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "みそ汁",
+  "freq",
+  {
+   "reading": "みそしる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "みつかる",
+  "freq",
+  {
+   "reading": "みつかる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "むしあつい",
+  "freq",
+  {
+   "reading": "むしあつい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "もし",
+  "freq",
+  {
+   "reading": "もし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "もちろん",
+  "freq",
+  {
+   "reading": "もちろん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "やくそくする",
+  "freq",
+  {
+   "reading": "やくそくする",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "やっぱり",
+  "freq",
+  {
+   "reading": "やっぱり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "やはり",
+  "freq",
+  {
+   "reading": "やはり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "やむ",
+  "freq",
+  {
+   "reading": "やむ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "やめる",
+  "freq",
+  {
+   "reading": "やめる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "やり方",
+  "freq",
+  {
+   "reading": "やりかた",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "よろしい",
+  "freq",
+  {
+   "reading": "よろしい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "れんらく",
+  "freq",
+  {
+   "reading": "れんらく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "れんらくする",
+  "freq",
+  {
+   "reading": "れんらくする",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "わかす",
+  "freq",
+  {
+   "reading": "わかす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "アイデア",
+  "freq",
+  {
+   "reading": "アイデア",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "アイディア",
+  "freq",
+  {
+   "reading": "アイディア",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "アクセサリー",
+  "freq",
+  {
+   "reading": "アクセサリー",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "アナウンサー",
+  "freq",
+  {
+   "reading": "アナウンサー",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "アルコール",
+  "freq",
+  {
+   "reading": "アルコール",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "イラスト",
+  "freq",
+  {
+   "reading": "イラスト",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "インスタント食品",
+  "freq",
+  {
+   "reading": "インスタントしょくひん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "エスカレーター",
+  "freq",
+  {
+   "reading": "エスカレーター",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "エンジニア",
+  "freq",
+  {
+   "reading": "エンジニア",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "エンジン",
+  "freq",
+  {
+   "reading": "エンジン",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "オフィス",
+  "freq",
+  {
+   "reading": "オフィス",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "オートバイ",
+  "freq",
+  {
+   "reading": "オートバイ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "オープン",
+  "freq",
+  {
+   "reading": "オープン",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "カット",
+  "freq",
+  {
+   "reading": "カット",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "カラオケ",
+  "freq",
+  {
+   "reading": "カラオケ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "カレンダー",
+  "freq",
+  {
+   "reading": "カレンダー",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "カーテン",
+  "freq",
+  {
+   "reading": "カーテン",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "カード",
+  "freq",
+  {
+   "reading": "カード",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ガイドブック",
+  "freq",
+  {
+   "reading": "ガイドブック",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ガス",
+  "freq",
+  {
+   "reading": "ガス",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ガソリン",
+  "freq",
+  {
+   "reading": "ガソリン",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ガム",
+  "freq",
+  {
+   "reading": "ガム",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "キャンセル",
+  "freq",
+  {
+   "reading": "キャンセル",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "キャンプ",
+  "freq",
+  {
+   "reading": "キャンプ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "キロ",
+  "freq",
+  {
+   "reading": "キロ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "キーワード",
+  "freq",
+  {
+   "reading": "キーワード",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "クラシック",
+  "freq",
+  {
+   "reading": "クラシック",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "クラブ",
+  "freq",
+  {
+   "reading": "クラブ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "クリーニング",
+  "freq",
+  {
+   "reading": "クリーニング",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "クレジットカード",
+  "freq",
+  {
+   "reading": "クレジットカード",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "グループ",
+  "freq",
+  {
+   "reading": "グループ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "コンテスト",
+  "freq",
+  {
+   "reading": "コンテスト",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "コース",
+  "freq",
+  {
+   "reading": "コース",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "サイン",
+  "freq",
+  {
+   "reading": "サイン",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "サラダ",
+  "freq",
+  {
+   "reading": "サラダ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "サンダル",
+  "freq",
+  {
+   "reading": "サンダル",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "シャンプー",
+  "freq",
+  {
+   "reading": "シャンプー",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "シングル",
+  "freq",
+  {
+   "reading": "シングル",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "シーズン",
+  "freq",
+  {
+   "reading": "シーズン",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ジャム",
+  "freq",
+  {
+   "reading": "ジャム",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "スイッチ",
+  "freq",
+  {
+   "reading": "スイッチ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "スキー場",
+  "freq",
+  {
+   "reading": "スキーじょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "スケジュール",
+  "freq",
+  {
+   "reading": "スケジュール",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "スタート",
+  "freq",
+  {
+   "reading": "スタート",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ステーキ",
+  "freq",
+  {
+   "reading": "ステーキ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ストレス",
+  "freq",
+  {
+   "reading": "ストレス",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "スポーツクラブ",
+  "freq",
+  {
+   "reading": "スポーツクラブ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "スリッパ",
+  "freq",
+  {
+   "reading": "スリッパ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "スーツケース",
+  "freq",
+  {
+   "reading": "スーツケース",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "スーパーマーケット",
+  "freq",
+  {
+   "reading": "スーパーマーケット",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "センチ",
+  "freq",
+  {
+   "reading": "センチ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ゼロ",
+  "freq",
+  {
+   "reading": "ゼロ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ソース",
+  "freq",
+  {
+   "reading": "ソース",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "タオル",
+  "freq",
+  {
+   "reading": "タオル",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "タバコ",
+  "freq",
+  {
+   "reading": "タバコ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "チェック",
+  "freq",
+  {
+   "reading": "チェック",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "チップ",
+  "freq",
+  {
+   "reading": "チップ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "チャレンジ",
+  "freq",
+  {
+   "reading": "チャレンジ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "チャンス",
+  "freq",
+  {
+   "reading": "チャンス",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "チーズ",
+  "freq",
+  {
+   "reading": "チーズ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "チーム",
+  "freq",
+  {
+   "reading": "チーム",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "テレビ局",
+  "freq",
+  {
+   "reading": "テレビきょく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "データ",
+  "freq",
+  {
+   "reading": "データ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "トマト",
+  "freq",
+  {
+   "reading": "トマト",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ドライブ",
+  "freq",
+  {
+   "reading": "ドライブ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ドラマ",
+  "freq",
+  {
+   "reading": "ドラマ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ネックレス",
+  "freq",
+  {
+   "reading": "ネックレス",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ネットニュース",
+  "freq",
+  {
+   "reading": "ネットニュース",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ハンカチ",
+  "freq",
+  {
+   "reading": "ハンカチ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ハンバーグ",
+  "freq",
+  {
+   "reading": "ハンバーグ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "バーゲン",
+  "freq",
+  {
+   "reading": "バーゲン",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "パトカー",
+  "freq",
+  {
+   "reading": "パトカー",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "パンフレット",
+  "freq",
+  {
+   "reading": "パンフレット",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ビタミン",
+  "freq",
+  {
+   "reading": "ビタミン",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ビデオ",
+  "freq",
+  {
+   "reading": "ビデオ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ファイル",
+  "freq",
+  {
+   "reading": "ファイル",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ファクス",
+  "freq",
+  {
+   "reading": "ファクス",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "フロント",
+  "freq",
+  {
+   "reading": "フロント",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "プリント",
+  "freq",
+  {
+   "reading": "プリント",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ベル",
+  "freq",
+  {
+   "reading": "ベル",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ペット",
+  "freq",
+  {
+   "reading": "ペット",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ペットボトル",
+  "freq",
+  {
+   "reading": "ペットボトル",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ホーム",
+  "freq",
+  {
+   "reading": "ホーム",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ホームシック",
+  "freq",
+  {
+   "reading": "ホームシック",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ホームページ",
+  "freq",
+  {
+   "reading": "ホームページ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ボタン",
+  "freq",
+  {
+   "reading": "ボタン",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ボランティア",
+  "freq",
+  {
+   "reading": "ボランティア",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ボーナス",
+  "freq",
+  {
+   "reading": "ボーナス",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ポケット",
+  "freq",
+  {
+   "reading": "ポケット",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ポスター",
+  "freq",
+  {
+   "reading": "ポスター",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "マナー",
+  "freq",
+  {
+   "reading": "マナー",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "マンション",
+  "freq",
+  {
+   "reading": "マンション",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "マーケット",
+  "freq",
+  {
+   "reading": "マーケット",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ミーティング",
+  "freq",
+  {
+   "reading": "ミーティング",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "メニュー",
+  "freq",
+  {
+   "reading": "メニュー",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "メロン",
+  "freq",
+  {
+   "reading": "メロン",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "メールアドレス",
+  "freq",
+  {
+   "reading": "メールアドレス",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ヨーロッパ",
+  "freq",
+  {
+   "reading": "ヨーロッパ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ラッシュ",
+  "freq",
+  {
+   "reading": "ラッシュ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "リサイクル",
+  "freq",
+  {
+   "reading": "リサイクル",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "リュック",
+  "freq",
+  {
+   "reading": "リュック",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ルール",
+  "freq",
+  {
+   "reading": "ルール",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "レインコート",
+  "freq",
+  {
+   "reading": "レインコート",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "レシート",
+  "freq",
+  {
+   "reading": "レシート",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "レジ",
+  "freq",
+  {
+   "reading": "レジ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "レベル",
+  "freq",
+  {
+   "reading": "レベル",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ロボット",
+  "freq",
+  {
+   "reading": "ロボット",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "ワールドカップ",
+  "freq",
+  {
+   "reading": "ワールドカップ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "一員",
+  "freq",
+  {
+   "reading": "いちいん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "一方",
+  "freq",
+  {
+   "reading": "いっぽう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "一昨年",
+  "freq",
+  {
+   "reading": "おととし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "一生",
+  "freq",
+  {
+   "reading": "いっしょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "一生懸命",
+  "freq",
+  {
+   "reading": "いっしょうけんめい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "一部",
+  "freq",
+  {
+   "reading": "いちぶ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "丁寧",
+  "freq",
+  {
+   "reading": "ていねい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "丁寧な",
+  "freq",
+  {
+   "reading": "ていねいな",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "丁度いい",
+  "freq",
+  {
+   "reading": "ちょうどいい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "丈夫",
+  "freq",
+  {
+   "reading": "じょうぶ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "上手い",
+  "freq",
+  {
+   "reading": "うまい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "上手く行く",
+  "freq",
+  {
+   "reading": "うまくいく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "下がる",
+  "freq",
+  {
+   "reading": "さがる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "下着",
+  "freq",
+  {
+   "reading": "したぎ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "不安",
+  "freq",
+  {
+   "reading": "ふあん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "不思議",
+  "freq",
+  {
+   "reading": "ふしぎ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "不満",
+  "freq",
+  {
+   "reading": "ふまん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "世界中",
+  "freq",
+  {
+   "reading": "せかいじゅう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "世界遺産",
+  "freq",
+  {
+   "reading": "せかいいさん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "世紀",
+  "freq",
+  {
+   "reading": "せいき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "世話",
+  "freq",
+  {
+   "reading": "せわ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "両",
+  "freq",
+  {
+   "reading": "りょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "両手",
+  "freq",
+  {
+   "reading": "りょうて",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "両方",
+  "freq",
+  {
+   "reading": "りょうほう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "両替",
+  "freq",
+  {
+   "reading": "りょうがえ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "中学",
+  "freq",
+  {
+   "reading": "ちゅうがく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "中心",
+  "freq",
+  {
+   "reading": "ちゅうしん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "中止",
+  "freq",
+  {
+   "reading": "ちゅうし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "丸",
+  "freq",
+  {
+   "reading": "まる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "乾かす",
+  "freq",
+  {
+   "reading": "かわかす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "乾く",
+  "freq",
+  {
+   "reading": "かわく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "予報",
+  "freq",
+  {
+   "reading": "よほう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "予定",
+  "freq",
+  {
+   "reading": "よてい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "予習",
+  "freq",
+  {
+   "reading": "よしゅう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "事件",
+  "freq",
+  {
+   "reading": "じけん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "事故",
+  "freq",
+  {
+   "reading": "じこ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "亡くなる",
+  "freq",
+  {
+   "reading": "なくなる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "交換",
+  "freq",
+  {
+   "reading": "こうかん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "人々",
+  "freq",
+  {
+   "reading": "ひとびと",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "人口",
+  "freq",
+  {
+   "reading": "じんこう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "人気",
+  "freq",
+  {
+   "reading": "にんき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "人間",
+  "freq",
+  {
+   "reading": "にんげん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "今にも",
+  "freq",
+  {
+   "reading": "いまにも",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "今回",
+  "freq",
+  {
+   "reading": "こんかい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "今夜",
+  "freq",
+  {
+   "reading": "こんや",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "今後",
+  "freq",
+  {
+   "reading": "こんご",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "仕方",
+  "freq",
+  {
+   "reading": "しかた",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "他人",
+  "freq",
+  {
+   "reading": "たにん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "付き合う",
+  "freq",
+  {
+   "reading": "つきあう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "代わる",
+  "freq",
+  {
+   "reading": "かわる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "以上",
+  "freq",
+  {
+   "reading": "いじょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "以下",
+  "freq",
+  {
+   "reading": "いか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "以内",
+  "freq",
+  {
+   "reading": "いない",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "以前",
+  "freq",
+  {
+   "reading": "いぜん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "以外",
+  "freq",
+  {
+   "reading": "いがい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "以来",
+  "freq",
+  {
+   "reading": "いらい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "仮名",
+  "freq",
+  {
+   "reading": "かな",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "仲間",
+  "freq",
+  {
+   "reading": "なかま",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "休憩",
+  "freq",
+  {
+   "reading": "きゅうけい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "会",
+  "freq",
+  {
+   "reading": "かい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "会場",
+  "freq",
+  {
+   "reading": "かいじょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "会話",
+  "freq",
+  {
+   "reading": "かいわ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "伝える",
+  "freq",
+  {
+   "reading": "つたえる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "伸ばす",
+  "freq",
+  {
+   "reading": "のばす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "似る",
+  "freq",
+  {
+   "reading": "にる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "似合う",
+  "freq",
+  {
+   "reading": "にあう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "位置",
+  "freq",
+  {
+   "reading": "いち",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "体温計",
+  "freq",
+  {
+   "reading": "たいおんけい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "体育",
+  "freq",
+  {
+   "reading": "たいいく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "体育館",
+  "freq",
+  {
+   "reading": "たいいくかん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "体重",
+  "freq",
+  {
+   "reading": "たいじゅう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "何でも",
+  "freq",
+  {
+   "reading": "なんでも",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "何時か",
+  "freq",
+  {
+   "reading": "いつか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "何時でも",
+  "freq",
+  {
+   "reading": "いつでも",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "例えば",
+  "freq",
+  {
+   "reading": "たとえば",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "係",
+  "freq",
+  {
+   "reading": "かかり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "信じる",
+  "freq",
+  {
+   "reading": "しんじる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "信用",
+  "freq",
+  {
+   "reading": "しんよう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "俳優",
+  "freq",
+  {
+   "reading": "はいゆう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "倍",
+  "freq",
+  {
+   "reading": "ばい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "倒れる",
+  "freq",
+  {
+   "reading": "たおれる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "値段",
+  "freq",
+  {
+   "reading": "ねだん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "偉い",
+  "freq",
+  {
+   "reading": "えらい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "停電",
+  "freq",
+  {
+   "reading": "ていでん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "側",
+  "freq",
+  {
+   "reading": "がわ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "偶に",
+  "freq",
+  {
+   "reading": "たまに",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "傷",
+  "freq",
+  {
+   "reading": "きず",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "優勝",
+  "freq",
+  {
+   "reading": "ゆうしょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "先に",
+  "freq",
+  {
+   "reading": "さきに",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "先輩",
+  "freq",
+  {
+   "reading": "せんぱい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "光",
+  "freq",
+  {
+   "reading": "ひかり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "光る",
+  "freq",
+  {
+   "reading": "ひかる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "入り口",
+  "freq",
+  {
+   "reading": "いりぐち",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "入力",
+  "freq",
+  {
+   "reading": "にゅうりょく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "入学",
+  "freq",
+  {
+   "reading": "にゅうがく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "入院",
+  "freq",
+  {
+   "reading": "にゅういん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "全く",
+  "freq",
+  {
+   "reading": "まったく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "全て",
+  "freq",
+  {
+   "reading": "すべて",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "全体",
+  "freq",
+  {
+   "reading": "ぜんたい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "公務員",
+  "freq",
+  {
+   "reading": "こうむいん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "具合",
+  "freq",
+  {
+   "reading": "ぐあい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "内容",
+  "freq",
+  {
+   "reading": "ないよう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "再来年",
+  "freq",
+  {
+   "reading": "さらいねん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "再来月",
+  "freq",
+  {
+   "reading": "さらいげつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "冗談",
+  "freq",
+  {
+   "reading": "じょうだん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "写す",
+  "freq",
+  {
+   "reading": "うつす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "冷える",
+  "freq",
+  {
+   "reading": "ひえる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "冷やす",
+  "freq",
+  {
+   "reading": "ひやす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "冷蔵",
+  "freq",
+  {
+   "reading": "れいぞう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "出かける",
+  "freq",
+  {
+   "reading": "でかける",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "出席",
+  "freq",
+  {
+   "reading": "しゅっせき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "出来るだけ",
+  "freq",
+  {
+   "reading": "できるだけ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "出発",
+  "freq",
+  {
+   "reading": "しゅっぱつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "分ける",
+  "freq",
+  {
+   "reading": "わける",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "切れる",
+  "freq",
+  {
+   "reading": "きれる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "別",
+  "freq",
+  {
+   "reading": "べつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "別に",
+  "freq",
+  {
+   "reading": "べつに",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "別れる",
+  "freq",
+  {
+   "reading": "わかれる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "利用",
+  "freq",
+  {
+   "reading": "りよう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "到着",
+  "freq",
+  {
+   "reading": "とうちゃく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "到頭",
+  "freq",
+  {
+   "reading": "とうとう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "割る",
+  "freq",
+  {
+   "reading": "わる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "割れる",
+  "freq",
+  {
+   "reading": "われる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "割引",
+  "freq",
+  {
+   "reading": "わりびき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "力",
+  "freq",
+  {
+   "reading": "ちから",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "助ける",
+  "freq",
+  {
+   "reading": "たすける",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "努力",
+  "freq",
+  {
+   "reading": "どりょく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "効果",
+  "freq",
+  {
+   "reading": "こうか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "勉強中",
+  "freq",
+  {
+   "reading": "べんきょうちゅう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "動かす",
+  "freq",
+  {
+   "reading": "うごかす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "動き",
+  "freq",
+  {
+   "reading": "うごき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "務める",
+  "freq",
+  {
+   "reading": "つとめる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "匂い",
+  "freq",
+  {
+   "reading": "におい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "包む",
+  "freq",
+  {
+   "reading": "つつむ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "医学",
+  "freq",
+  {
+   "reading": "いがく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "十分な",
+  "freq",
+  {
+   "reading": "じゅうぶんな",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "半年",
+  "freq",
+  {
+   "reading": "はんとし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "卒業",
+  "freq",
+  {
+   "reading": "そつぎょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "卓球",
+  "freq",
+  {
+   "reading": "たっきゅう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "協力",
+  "freq",
+  {
+   "reading": "きょうりょく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "危険",
+  "freq",
+  {
+   "reading": "きけん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "原因",
+  "freq",
+  {
+   "reading": "げんいん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "原料",
+  "freq",
+  {
+   "reading": "げんりょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "厳しい",
+  "freq",
+  {
+   "reading": "きびしい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "参加",
+  "freq",
+  {
+   "reading": "さんか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "友人",
+  "freq",
+  {
+   "reading": "ゆうじん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "反対",
+  "freq",
+  {
+   "reading": "はんたい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "叔母",
+  "freq",
+  {
+   "reading": "おば",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "叔父",
+  "freq",
+  {
+   "reading": "おじ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "取り替える",
+  "freq",
+  {
+   "reading": "とりかえる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "取れる",
+  "freq",
+  {
+   "reading": "とれる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "受かる",
+  "freq",
+  {
+   "reading": "うかる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "受ける",
+  "freq",
+  {
+   "reading": "うける",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "可笑しい",
+  "freq",
+  {
+   "reading": "おかしい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "可能",
+  "freq",
+  {
+   "reading": "かのう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "台",
+  "freq",
+  {
+   "reading": "だい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "台風",
+  "freq",
+  {
+   "reading": "たいふう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "叱る",
+  "freq",
+  {
+   "reading": "しかる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "吃驚",
+  "freq",
+  {
+   "reading": "びっくり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "合う",
+  "freq",
+  {
+   "reading": "あう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "合わせる",
+  "freq",
+  {
+   "reading": "あわせる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "合図",
+  "freq",
+  {
+   "reading": "あいず",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "合格",
+  "freq",
+  {
+   "reading": "ごうかく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "名",
+  "freq",
+  {
+   "reading": "な",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "向かう",
+  "freq",
+  {
+   "reading": "むかう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "吹く",
+  "freq",
+  {
+   "reading": "ふく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "周り",
+  "freq",
+  {
+   "reading": "まわり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "味",
+  "freq",
+  {
+   "reading": "あじ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "命",
+  "freq",
+  {
+   "reading": "いのち",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "命令",
+  "freq",
+  {
+   "reading": "めいれい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "和",
+  "freq",
+  {
+   "reading": "わ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "和食",
+  "freq",
+  {
+   "reading": "わしょく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "咲く",
+  "freq",
+  {
+   "reading": "さく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "品",
+  "freq",
+  {
+   "reading": "しな",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "品物",
+  "freq",
+  {
+   "reading": "しなもの",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "唇",
+  "freq",
+  {
+   "reading": "くちびる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "喜ぶ",
+  "freq",
+  {
+   "reading": "よろこぶ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "喧嘩",
+  "freq",
+  {
+   "reading": "けんか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "営業",
+  "freq",
+  {
+   "reading": "えいぎょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "噛む",
+  "freq",
+  {
+   "reading": "かむ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "回る",
+  "freq",
+  {
+   "reading": "まわる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "国内",
+  "freq",
+  {
+   "reading": "こくない",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "国際",
+  "freq",
+  {
+   "reading": "こくさい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "土",
+  "freq",
+  {
+   "reading": "つち",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "地",
+  "freq",
+  {
+   "reading": "ち",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "地理",
+  "freq",
+  {
+   "reading": "ちり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "地震",
+  "freq",
+  {
+   "reading": "じしん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "城",
+  "freq",
+  {
+   "reading": "しろ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "場",
+  "freq",
+  {
+   "reading": "ば",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "場合",
+  "freq",
+  {
+   "reading": "ばあい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "場所",
+  "freq",
+  {
+   "reading": "ばしょ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "塗る",
+  "freq",
+  {
+   "reading": "ぬる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "塾",
+  "freq",
+  {
+   "reading": "じゅく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "増える",
+  "freq",
+  {
+   "reading": "ふえる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "増やす",
+  "freq",
+  {
+   "reading": "ふやす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "壁",
+  "freq",
+  {
+   "reading": "かべ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "壊れる",
+  "freq",
+  {
+   "reading": "こわれる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "声",
+  "freq",
+  {
+   "reading": "こえ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "売れる",
+  "freq",
+  {
+   "reading": "うれる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "変",
+  "freq",
+  {
+   "reading": "へん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "変な",
+  "freq",
+  {
+   "reading": "へんな",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "変わる",
+  "freq",
+  {
+   "reading": "かわる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "変化",
+  "freq",
+  {
+   "reading": "へんか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "変更",
+  "freq",
+  {
+   "reading": "へんこう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "夕べ",
+  "freq",
+  {
+   "reading": "ゆうべ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "夕食",
+  "freq",
+  {
+   "reading": "ゆうしょく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "外す",
+  "freq",
+  {
+   "reading": "はずす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "外れる",
+  "freq",
+  {
+   "reading": "はずれる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "多く",
+  "freq",
+  {
+   "reading": "おおく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "夜中",
+  "freq",
+  {
+   "reading": "よなか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "夜行バス",
+  "freq",
+  {
+   "reading": "やこうバス",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "大",
+  "freq",
+  {
+   "reading": "おお",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "大事",
+  "freq",
+  {
+   "reading": "だいじ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "大事な",
+  "freq",
+  {
+   "reading": "だいじな",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "大人しい",
+  "freq",
+  {
+   "reading": "おとなしい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "大会",
+  "freq",
+  {
+   "reading": "たいかい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "大分",
+  "freq",
+  {
+   "reading": "だいぶ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "大勢",
+  "freq",
+  {
+   "reading": "おおぜい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "大統領",
+  "freq",
+  {
+   "reading": "だいとうりょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "天ぷら",
+  "freq",
+  {
+   "reading": "てんぷら",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "天気予報",
+  "freq",
+  {
+   "reading": "てんきよほう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "太る",
+  "freq",
+  {
+   "reading": "ふとる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "太陽",
+  "freq",
+  {
+   "reading": "たいよう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "失敗",
+  "freq",
+  {
+   "reading": "しっぱい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "失礼",
+  "freq",
+  {
+   "reading": "しつれい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "奥",
+  "freq",
+  {
+   "reading": "おく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "如何",
+  "freq",
+  {
+   "reading": "いかが",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "娘",
+  "freq",
+  {
+   "reading": "むすめ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "婚約",
+  "freq",
+  {
+   "reading": "こんやく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "嫌",
+  "freq",
+  {
+   "reading": "いや",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "嫌な",
+  "freq",
+  {
+   "reading": "いやな",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "嬉しい",
+  "freq",
+  {
+   "reading": "うれしい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "子",
+  "freq",
+  {
+   "reading": "こ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "学部",
+  "freq",
+  {
+   "reading": "がくぶ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "孫",
+  "freq",
+  {
+   "reading": "まご",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "宅配便",
+  "freq",
+  {
+   "reading": "たくはいびん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "宇宙",
+  "freq",
+  {
+   "reading": "うちゅう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "守る",
+  "freq",
+  {
+   "reading": "まもる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "安全",
+  "freq",
+  {
+   "reading": "あんぜん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "安心",
+  "freq",
+  {
+   "reading": "あんしん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "完成",
+  "freq",
+  {
+   "reading": "かんせい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "宛先",
+  "freq",
+  {
+   "reading": "あてさき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "実は",
+  "freq",
+  {
+   "reading": "じつは",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "実験",
+  "freq",
+  {
+   "reading": "じっけん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "客",
+  "freq",
+  {
+   "reading": "きゃく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "家事",
+  "freq",
+  {
+   "reading": "かじ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "家具",
+  "freq",
+  {
+   "reading": "かぐ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "寄る",
+  "freq",
+  {
+   "reading": "よる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "寝坊",
+  "freq",
+  {
+   "reading": "ねぼう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "対",
+  "freq",
+  {
+   "reading": "たい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "専門学校",
+  "freq",
+  {
+   "reading": "せんもんがっこう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "尋ねる",
+  "freq",
+  {
+   "reading": "たずねる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "小説",
+  "freq",
+  {
+   "reading": "しょうせつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "少女",
+  "freq",
+  {
+   "reading": "しょうじょ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "少年",
+  "freq",
+  {
+   "reading": "しょうねん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "尻",
+  "freq",
+  {
+   "reading": "しり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "届く",
+  "freq",
+  {
+   "reading": "とどく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "届ける",
+  "freq",
+  {
+   "reading": "とどける",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "屋",
+  "freq",
+  {
+   "reading": "や",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "屋上",
+  "freq",
+  {
+   "reading": "おくじょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "山登り",
+  "freq",
+  {
+   "reading": "やまのぼり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "島",
+  "freq",
+  {
+   "reading": "しま",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "工事",
+  "freq",
+  {
+   "reading": "こうじ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "差",
+  "freq",
+  {
+   "reading": "さ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "差す",
+  "freq",
+  {
+   "reading": "さす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "市",
+  "freq",
+  {
+   "reading": "し",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "市民",
+  "freq",
+  {
+   "reading": "しみん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "希望",
+  "freq",
+  {
+   "reading": "きぼう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "席",
+  "freq",
+  {
+   "reading": "せき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "帰国",
+  "freq",
+  {
+   "reading": "きこく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "平和",
+  "freq",
+  {
+   "reading": "へいわ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "平日",
+  "freq",
+  {
+   "reading": "へいじつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "年生",
+  "freq",
+  {
+   "reading": "ねんせい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "幸せ",
+  "freq",
+  {
+   "reading": "しあわせ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "幼稚園",
+  "freq",
+  {
+   "reading": "ようちえん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "広場",
+  "freq",
+  {
+   "reading": "ひろば",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "床",
+  "freq",
+  {
+   "reading": "ゆか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "度",
+  "freq",
+  {
+   "reading": "ど",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "廊下",
+  "freq",
+  {
+   "reading": "ろうか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "建つ",
+  "freq",
+  {
+   "reading": "たつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "建てる",
+  "freq",
+  {
+   "reading": "たてる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "弁護士",
+  "freq",
+  {
+   "reading": "べんごし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "式",
+  "freq",
+  {
+   "reading": "しき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "引越し",
+  "freq",
+  {
+   "reading": "ひっこし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "弱く",
+  "freq",
+  {
+   "reading": "よわく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "当たり前",
+  "freq",
+  {
+   "reading": "あたりまえ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "当たる",
+  "freq",
+  {
+   "reading": "あたる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "当てる",
+  "freq",
+  {
+   "reading": "あてる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "当然",
+  "freq",
+  {
+   "reading": "とうぜん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "形",
+  "freq",
+  {
+   "reading": "かたち",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "彼ら",
+  "freq",
+  {
+   "reading": "かれら",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "彼氏",
+  "freq",
+  {
+   "reading": "かれし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "得意",
+  "freq",
+  {
+   "reading": "とくい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "御数",
+  "freq",
+  {
+   "reading": "おかず",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "復習",
+  "freq",
+  {
+   "reading": "ふくしゅう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "心配を掛ける",
+  "freq",
+  {
+   "reading": "しんぱいをかける",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "必ず",
+  "freq",
+  {
+   "reading": "かならず",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "必要",
+  "freq",
+  {
+   "reading": "ひつよう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "忘れ物",
+  "freq",
+  {
+   "reading": "わすれもの",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "忘年会",
+  "freq",
+  {
+   "reading": "ぼうねんかい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "応援",
+  "freq",
+  {
+   "reading": "おうえん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "怒る",
+  "freq",
+  {
+   "reading": "おこる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "怖い",
+  "freq",
+  {
+   "reading": "こわい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "思い出",
+  "freq",
+  {
+   "reading": "おもいで",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "急",
+  "freq",
+  {
+   "reading": "きゅう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "急に",
+  "freq",
+  {
+   "reading": "きゅうに",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "性格",
+  "freq",
+  {
+   "reading": "せいかく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "恐ろしい",
+  "freq",
+  {
+   "reading": "おそろしい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "恥ずかしい",
+  "freq",
+  {
+   "reading": "はずかしい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "息",
+  "freq",
+  {
+   "reading": "いき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "息子",
+  "freq",
+  {
+   "reading": "むすこ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "悲しい",
+  "freq",
+  {
+   "reading": "かなしい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "情報",
+  "freq",
+  {
+   "reading": "じょうほう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "意見",
+  "freq",
+  {
+   "reading": "いけん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "愛",
+  "freq",
+  {
+   "reading": "あい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "愛する",
+  "freq",
+  {
+   "reading": "あいする",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "感じる",
+  "freq",
+  {
+   "reading": "かんじる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "感謝",
+  "freq",
+  {
+   "reading": "かんしゃ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "慣れる",
+  "freq",
+  {
+   "reading": "なれる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "成功",
+  "freq",
+  {
+   "reading": "せいこう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "成績",
+  "freq",
+  {
+   "reading": "せいせき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "戦う",
+  "freq",
+  {
+   "reading": "たたかう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "戦争",
+  "freq",
+  {
+   "reading": "せんそう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "戻す",
+  "freq",
+  {
+   "reading": "もどす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "戻る",
+  "freq",
+  {
+   "reading": "もどる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "手伝い",
+  "freq",
+  {
+   "reading": "てつだい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "手洗い",
+  "freq",
+  {
+   "reading": "てあらい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "手袋",
+  "freq",
+  {
+   "reading": "てぶくろ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "打つ",
+  "freq",
+  {
+   "reading": "うつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "打つかる",
+  "freq",
+  {
+   "reading": "ぶつかる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "承知",
+  "freq",
+  {
+   "reading": "しょうち",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "技術",
+  "freq",
+  {
+   "reading": "ぎじゅつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "投げる",
+  "freq",
+  {
+   "reading": "なげる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "折り紙",
+  "freq",
+  {
+   "reading": "おりがみ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "折る",
+  "freq",
+  {
+   "reading": "おる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "折れる",
+  "freq",
+  {
+   "reading": "おれる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "押し入れ",
+  "freq",
+  {
+   "reading": "おしいれ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "押す",
+  "freq",
+  {
+   "reading": "おす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "招待",
+  "freq",
+  {
+   "reading": "しょうたい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "拾う",
+  "freq",
+  {
+   "reading": "ひろう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "挨拶",
+  "freq",
+  {
+   "reading": "あいさつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "振り仮名",
+  "freq",
+  {
+   "reading": "ふりがな",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "捕まえる",
+  "freq",
+  {
+   "reading": "つかまえる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "探す",
+  "freq",
+  {
+   "reading": "さがす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "接待",
+  "freq",
+  {
+   "reading": "せったい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "握る",
+  "freq",
+  {
+   "reading": "にぎる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "携帯電話",
+  "freq",
+  {
+   "reading": "けいたいでんわ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "操作",
+  "freq",
+  {
+   "reading": "そうさ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "支度",
+  "freq",
+  {
+   "reading": "したく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "放送",
+  "freq",
+  {
+   "reading": "ほうそう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "政治",
+  "freq",
+  {
+   "reading": "せいじ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "救急車",
+  "freq",
+  {
+   "reading": "きゅうきゅうしゃ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "教会",
+  "freq",
+  {
+   "reading": "きょうかい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "教科書",
+  "freq",
+  {
+   "reading": "きょうかしょ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "教育",
+  "freq",
+  {
+   "reading": "きょういく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "数",
+  "freq",
+  {
+   "reading": "すう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "数える",
+  "freq",
+  {
+   "reading": "かぞえる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "数学",
+  "freq",
+  {
+   "reading": "すうがく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "整理",
+  "freq",
+  {
+   "reading": "せいり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "文",
+  "freq",
+  {
+   "reading": "ぶん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "文化",
+  "freq",
+  {
+   "reading": "ぶんか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "文学",
+  "freq",
+  {
+   "reading": "ぶんがく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "文法",
+  "freq",
+  {
+   "reading": "ぶんぽう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "文章",
+  "freq",
+  {
+   "reading": "ぶんしょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "料理教室",
+  "freq",
+  {
+   "reading": "りょうりきょうしつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "料金",
+  "freq",
+  {
+   "reading": "りょうきん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "断る",
+  "freq",
+  {
+   "reading": "ことわる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "新聞社",
+  "freq",
+  {
+   "reading": "しんぶんしゃ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "方",
+  "freq",
+  {
+   "reading": "ほう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "方向",
+  "freq",
+  {
+   "reading": "ほうこう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "方法",
+  "freq",
+  {
+   "reading": "ほうほう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "方言",
+  "freq",
+  {
+   "reading": "ほうげん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "旅行社",
+  "freq",
+  {
+   "reading": "りょこうしゃ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "旅館",
+  "freq",
+  {
+   "reading": "りょかん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "日本製",
+  "freq",
+  {
+   "reading": "にほんせい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "早起き",
+  "freq",
+  {
+   "reading": "はやおき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "昔",
+  "freq",
+  {
+   "reading": "むかし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "星",
+  "freq",
+  {
+   "reading": "ほし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "映る",
+  "freq",
+  {
+   "reading": "うつる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "春休み",
+  "freq",
+  {
+   "reading": "はるやすみ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "昼寝",
+  "freq",
+  {
+   "reading": "ひるね",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "昼間",
+  "freq",
+  {
+   "reading": "ひるま",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "時代",
+  "freq",
+  {
+   "reading": "じだい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "時間割",
+  "freq",
+  {
+   "reading": "じかんわり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "普通",
+  "freq",
+  {
+   "reading": "ふつう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "景色",
+  "freq",
+  {
+   "reading": "けしき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "暖房",
+  "freq",
+  {
+   "reading": "だんぼう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "暫く",
+  "freq",
+  {
+   "reading": "しばらく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "暮らす",
+  "freq",
+  {
+   "reading": "くらす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "曲",
+  "freq",
+  {
+   "reading": "きょく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "書き方",
+  "freq",
+  {
+   "reading": "かきかた",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "書類",
+  "freq",
+  {
+   "reading": "しょるい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "最中",
+  "freq",
+  {
+   "reading": "さいちゅう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "最初",
+  "freq",
+  {
+   "reading": "さいしょ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "最大",
+  "freq",
+  {
+   "reading": "さいだい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "最高",
+  "freq",
+  {
+   "reading": "さいこう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "有料",
+  "freq",
+  {
+   "reading": "ゆうりょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "期待",
+  "freq",
+  {
+   "reading": "きたい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "本物",
+  "freq",
+  {
+   "reading": "ほんもの",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "本社",
+  "freq",
+  {
+   "reading": "ほんしゃ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "材料",
+  "freq",
+  {
+   "reading": "ざいりょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "村",
+  "freq",
+  {
+   "reading": "むら",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "杯",
+  "freq",
+  {
+   "reading": "さかずき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "林",
+  "freq",
+  {
+   "reading": "はやし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "枝",
+  "freq",
+  {
+   "reading": "えだ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "柔らかい",
+  "freq",
+  {
+   "reading": "やわらかい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "格好",
+  "freq",
+  {
+   "reading": "かっこう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "植える",
+  "freq",
+  {
+   "reading": "うえる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "楽",
+  "freq",
+  {
+   "reading": "らく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "楽しみ",
+  "freq",
+  {
+   "reading": "たのしみ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "楽しむ",
+  "freq",
+  {
+   "reading": "たのしむ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "楽な",
+  "freq",
+  {
+   "reading": "らくな",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "様子",
+  "freq",
+  {
+   "reading": "ようす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "機会",
+  "freq",
+  {
+   "reading": "きかい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "機械",
+  "freq",
+  {
+   "reading": "きかい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "欠席",
+  "freq",
+  {
+   "reading": "けっせき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "歌舞伎",
+  "freq",
+  {
+   "reading": "かぶき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "止む",
+  "freq",
+  {
+   "reading": "やむ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "止める",
+  "freq",
+  {
+   "reading": "やめる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "正月",
+  "freq",
+  {
+   "reading": "しょうがつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "正直",
+  "freq",
+  {
+   "reading": "しょうじき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "正確",
+  "freq",
+  {
+   "reading": "せいかく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "歩",
+  "freq",
+  {
+   "reading": "あゆみ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "歴史",
+  "freq",
+  {
+   "reading": "れきし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "死",
+  "freq",
+  {
+   "reading": "し",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "死ぬ",
+  "freq",
+  {
+   "reading": "しぬ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "殆ど",
+  "freq",
+  {
+   "reading": "ほとんど",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "残す",
+  "freq",
+  {
+   "reading": "のこす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "残り",
+  "freq",
+  {
+   "reading": "のこり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "残る",
+  "freq",
+  {
+   "reading": "のこる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "母親",
+  "freq",
+  {
+   "reading": "ははおや",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "比べる",
+  "freq",
+  {
+   "reading": "くらべる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "気",
+  "freq",
+  {
+   "reading": "き",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "気づく",
+  "freq",
+  {
+   "reading": "きづく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "気に入る",
+  "freq",
+  {
+   "reading": "きにはいる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "気を付ける",
+  "freq",
+  {
+   "reading": "きをつける",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "気付く",
+  "freq",
+  {
+   "reading": "きづく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "気分",
+  "freq",
+  {
+   "reading": "きぶん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "気分が悪い",
+  "freq",
+  {
+   "reading": "きぶんがわるい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "気持ち",
+  "freq",
+  {
+   "reading": "きもち",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "気持ちが悪い",
+  "freq",
+  {
+   "reading": "きもちがわるい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "気温",
+  "freq",
+  {
+   "reading": "きおん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "水泳",
+  "freq",
+  {
+   "reading": "すいえい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "水道",
+  "freq",
+  {
+   "reading": "すいどう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "汚す",
+  "freq",
+  {
+   "reading": "よごす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "汚れる",
+  "freq",
+  {
+   "reading": "よごれる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "決して",
+  "freq",
+  {
+   "reading": "けっして",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "決まる",
+  "freq",
+  {
+   "reading": "きまる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "決める",
+  "freq",
+  {
+   "reading": "きめる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "決定",
+  "freq",
+  {
+   "reading": "けってい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "沸かす",
+  "freq",
+  {
+   "reading": "わかす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "治す",
+  "freq",
+  {
+   "reading": "なおす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "治る",
+  "freq",
+  {
+   "reading": "なおる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "法律",
+  "freq",
+  {
+   "reading": "ほうりつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "波",
+  "freq",
+  {
+   "reading": "なみ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "泣く",
+  "freq",
+  {
+   "reading": "なく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "泥棒",
+  "freq",
+  {
+   "reading": "どろぼう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "注射",
+  "freq",
+  {
+   "reading": "ちゅうしゃ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "注意",
+  "freq",
+  {
+   "reading": "ちゅうい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "洋食",
+  "freq",
+  {
+   "reading": "ようしょく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "洗濯物",
+  "freq",
+  {
+   "reading": "せんたくもの",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "津波",
+  "freq",
+  {
+   "reading": "つなみ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "活動",
+  "freq",
+  {
+   "reading": "かつどう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "流す",
+  "freq",
+  {
+   "reading": "ながす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "流れる",
+  "freq",
+  {
+   "reading": "ながれる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "浅い",
+  "freq",
+  {
+   "reading": "あさい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "海外",
+  "freq",
+  {
+   "reading": "かいがい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "海岸",
+  "freq",
+  {
+   "reading": "かいがん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "消える",
+  "freq",
+  {
+   "reading": "きえる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "涙",
+  "freq",
+  {
+   "reading": "なみだ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "深い",
+  "freq",
+  {
+   "reading": "ぶかい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "深い",
+  "freq",
+  {
+   "reading": "ふかい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "混ぜる",
+  "freq",
+  {
+   "reading": "まぜる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "混む",
+  "freq",
+  {
+   "reading": "こむ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "渇く",
+  "freq",
+  {
+   "reading": "かわく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "減らす",
+  "freq",
+  {
+   "reading": "へらす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "減る",
+  "freq",
+  {
+   "reading": "へる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "温かい",
+  "freq",
+  {
+   "reading": "あたたかい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "温める",
+  "freq",
+  {
+   "reading": "あたためる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "温泉",
+  "freq",
+  {
+   "reading": "おんせん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "港",
+  "freq",
+  {
+   "reading": "みなと",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "湖",
+  "freq",
+  {
+   "reading": "みずうみ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "満員",
+  "freq",
+  {
+   "reading": "まんいん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "満足",
+  "freq",
+  {
+   "reading": "まんぞく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "滑る",
+  "freq",
+  {
+   "reading": "すべる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "漬ける",
+  "freq",
+  {
+   "reading": "つける",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "濃い",
+  "freq",
+  {
+   "reading": "こい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "濡れる",
+  "freq",
+  {
+   "reading": "ぬれる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "火事",
+  "freq",
+  {
+   "reading": "かじ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "火傷",
+  "freq",
+  {
+   "reading": "やけど",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "点",
+  "freq",
+  {
+   "reading": "てん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "無",
+  "freq",
+  {
+   "reading": "む",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "無くなる",
+  "freq",
+  {
+   "reading": "なくなる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "無事",
+  "freq",
+  {
+   "reading": "ぶじ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "無料",
+  "freq",
+  {
+   "reading": "むりょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "焼く",
+  "freq",
+  {
+   "reading": "やく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "焼ける",
+  "freq",
+  {
+   "reading": "やける",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "煩い",
+  "freq",
+  {
+   "reading": "うるさい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "熱心",
+  "freq",
+  {
+   "reading": "ねっしん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "熱心な",
+  "freq",
+  {
+   "reading": "ねっしんな",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "燃える",
+  "freq",
+  {
+   "reading": "もえる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "爪",
+  "freq",
+  {
+   "reading": "つめ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "父親",
+  "freq",
+  {
+   "reading": "ちちおや",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "片付く",
+  "freq",
+  {
+   "reading": "かたづく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "片付け",
+  "freq",
+  {
+   "reading": "かたづけ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "片付ける",
+  "freq",
+  {
+   "reading": "かたづける",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "特別",
+  "freq",
+  {
+   "reading": "とくべつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "特別な",
+  "freq",
+  {
+   "reading": "とくべつな",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "状態",
+  "freq",
+  {
+   "reading": "じょうたい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "王",
+  "freq",
+  {
+   "reading": "おう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "玩具",
+  "freq",
+  {
+   "reading": "おもちゃ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "珍しい",
+  "freq",
+  {
+   "reading": "めずらしい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "現在",
+  "freq",
+  {
+   "reading": "げんざい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "理由",
+  "freq",
+  {
+   "reading": "りゆう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "瓶",
+  "freq",
+  {
+   "reading": "びん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "生きる",
+  "freq",
+  {
+   "reading": "いきる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "生む",
+  "freq",
+  {
+   "reading": "うむ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "生産",
+  "freq",
+  {
+   "reading": "せいさん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "用",
+  "freq",
+  {
+   "reading": "よう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "用意",
+  "freq",
+  {
+   "reading": "ようい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "田",
+  "freq",
+  {
+   "reading": "た",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "申し込む",
+  "freq",
+  {
+   "reading": "もうしこむ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "申す",
+  "freq",
+  {
+   "reading": "もうす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "留守",
+  "freq",
+  {
+   "reading": "るす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "番目",
+  "freq",
+  {
+   "reading": "ばんめ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "畳",
+  "freq",
+  {
+   "reading": "たたみ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "疑問",
+  "freq",
+  {
+   "reading": "ぎもん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "痩せる",
+  "freq",
+  {
+   "reading": "やせる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "発",
+  "freq",
+  {
+   "reading": "はつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "発表",
+  "freq",
+  {
+   "reading": "はっぴょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "発見",
+  "freq",
+  {
+   "reading": "はっけん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "発音",
+  "freq",
+  {
+   "reading": "はつおん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "的",
+  "freq",
+  {
+   "reading": "まと",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "盗む",
+  "freq",
+  {
+   "reading": "ぬすむ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "目的",
+  "freq",
+  {
+   "reading": "もくてき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "直る",
+  "freq",
+  {
+   "reading": "なおる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "直接",
+  "freq",
+  {
+   "reading": "ちょくせつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "相手",
+  "freq",
+  {
+   "reading": "あいて",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "相談",
+  "freq",
+  {
+   "reading": "そうだん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "看護",
+  "freq",
+  {
+   "reading": "かんご",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "真ん中",
+  "freq",
+  {
+   "reading": "まんなか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "真面目",
+  "freq",
+  {
+   "reading": "まじめ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "真面目な",
+  "freq",
+  {
+   "reading": "まじめな",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "眠る",
+  "freq",
+  {
+   "reading": "ねむる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "着付け",
+  "freq",
+  {
+   "reading": "きつけ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "矢印",
+  "freq",
+  {
+   "reading": "やじるし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "知らせ",
+  "freq",
+  {
+   "reading": "しらせ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "知らせる",
+  "freq",
+  {
+   "reading": "しらせる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "知り合う",
+  "freq",
+  {
+   "reading": "しりあう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "石",
+  "freq",
+  {
+   "reading": "いし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "石油",
+  "freq",
+  {
+   "reading": "せきゆ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "石鹸",
+  "freq",
+  {
+   "reading": "せっけん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "破る",
+  "freq",
+  {
+   "reading": "やぶる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "破れる",
+  "freq",
+  {
+   "reading": "やぶれる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "硝子",
+  "freq",
+  {
+   "reading": "がらす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "硬い",
+  "freq",
+  {
+   "reading": "かたい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "確か",
+  "freq",
+  {
+   "reading": "たしか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "確かめる",
+  "freq",
+  {
+   "reading": "たしかめる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "礼",
+  "freq",
+  {
+   "reading": "れい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "祈る",
+  "freq",
+  {
+   "reading": "いのる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "祝い",
+  "freq",
+  {
+   "reading": "いわい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "科学",
+  "freq",
+  {
+   "reading": "かがく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "秘密",
+  "freq",
+  {
+   "reading": "ひみつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "移す",
+  "freq",
+  {
+   "reading": "うつす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "移る",
+  "freq",
+  {
+   "reading": "うつる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "種類",
+  "freq",
+  {
+   "reading": "しゅるい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "空き缶",
+  "freq",
+  {
+   "reading": "あきかん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "空く",
+  "freq",
+  {
+   "reading": "あく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "空く",
+  "freq",
+  {
+   "reading": "すく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "空席",
+  "freq",
+  {
+   "reading": "くうせき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "空気",
+  "freq",
+  {
+   "reading": "くうき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "立てる",
+  "freq",
+  {
+   "reading": "たてる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "立入禁止",
+  "freq",
+  {
+   "reading": "たちいりきんし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "立派",
+  "freq",
+  {
+   "reading": "りっぱ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "笑顔",
+  "freq",
+  {
+   "reading": "えがお",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "第一",
+  "freq",
+  {
+   "reading": "だいいち",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "管理人",
+  "freq",
+  {
+   "reading": "かんりにん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "簡単な",
+  "freq",
+  {
+   "reading": "かんたんな",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "米",
+  "freq",
+  {
+   "reading": "べい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "米",
+  "freq",
+  {
+   "reading": "こめ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "糸",
+  "freq",
+  {
+   "reading": "いと",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "紅葉",
+  "freq",
+  {
+   "reading": "こうよう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "紐",
+  "freq",
+  {
+   "reading": "ひも",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "素晴らしい",
+  "freq",
+  {
+   "reading": "すばらしい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "細かい",
+  "freq",
+  {
+   "reading": "こまかい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "終える",
+  "freq",
+  {
+   "reading": "おえる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "組",
+  "freq",
+  {
+   "reading": "くみ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "組み立てる",
+  "freq",
+  {
+   "reading": "くみたてる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "組む",
+  "freq",
+  {
+   "reading": "くむ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "経験",
+  "freq",
+  {
+   "reading": "けいけん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "結果",
+  "freq",
+  {
+   "reading": "けっか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "給料",
+  "freq",
+  {
+   "reading": "きゅうりょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "絵を掛ける",
+  "freq",
+  {
+   "reading": "えをかける",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "絵本",
+  "freq",
+  {
+   "reading": "えほん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "絶対",
+  "freq",
+  {
+   "reading": "ぜったい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "続く",
+  "freq",
+  {
+   "reading": "つづく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "続ける",
+  "freq",
+  {
+   "reading": "つづける",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "緊張",
+  "freq",
+  {
+   "reading": "きんちょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "線",
+  "freq",
+  {
+   "reading": "せん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "締め切り",
+  "freq",
+  {
+   "reading": "しめきり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "繰り返す",
+  "freq",
+  {
+   "reading": "くりかえす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "纏める",
+  "freq",
+  {
+   "reading": "まとめる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "缶",
+  "freq",
+  {
+   "reading": "かん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "缶詰",
+  "freq",
+  {
+   "reading": "かんづめ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "美しい",
+  "freq",
+  {
+   "reading": "うつくしい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "美容院",
+  "freq",
+  {
+   "reading": "びよういん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "習慣",
+  "freq",
+  {
+   "reading": "しゅうかん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "翻訳",
+  "freq",
+  {
+   "reading": "ほんやく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "聞こえる",
+  "freq",
+  {
+   "reading": "きこえる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "肌",
+  "freq",
+  {
+   "reading": "はだ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "肘",
+  "freq",
+  {
+   "reading": "ひじ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "育てる",
+  "freq",
+  {
+   "reading": "そだてる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "胃",
+  "freq",
+  {
+   "reading": "い",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "背中",
+  "freq",
+  {
+   "reading": "せなか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "胸",
+  "freq",
+  {
+   "reading": "むね",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "腐る",
+  "freq",
+  {
+   "reading": "くさる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "腕",
+  "freq",
+  {
+   "reading": "うで",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "腕時計",
+  "freq",
+  {
+   "reading": "うでどけい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "腰",
+  "freq",
+  {
+   "reading": "こし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "腹",
+  "freq",
+  {
+   "reading": "はら",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "膝",
+  "freq",
+  {
+   "reading": "ひざ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "自信",
+  "freq",
+  {
+   "reading": "じしん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "自動",
+  "freq",
+  {
+   "reading": "じどう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "自宅",
+  "freq",
+  {
+   "reading": "じたく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "自己紹介",
+  "freq",
+  {
+   "reading": "じこしょうかい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "自然",
+  "freq",
+  {
+   "reading": "しぜん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "自由",
+  "freq",
+  {
+   "reading": "じゆう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "自身",
+  "freq",
+  {
+   "reading": "じしん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "興味",
+  "freq",
+  {
+   "reading": "きょうみ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "花瓶",
+  "freq",
+  {
+   "reading": "かびん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "苦い",
+  "freq",
+  {
+   "reading": "にがい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "苦しい",
+  "freq",
+  {
+   "reading": "くるしい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "茶碗",
+  "freq",
+  {
+   "reading": "ちゃわん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "草",
+  "freq",
+  {
+   "reading": "くさ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "落ちる",
+  "freq",
+  {
+   "reading": "おちる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "落とす",
+  "freq",
+  {
+   "reading": "おとす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "葉",
+  "freq",
+  {
+   "reading": "は",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "葉っぱ",
+  "freq",
+  {
+   "reading": "はっぱ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "蓋",
+  "freq",
+  {
+   "reading": "ふた",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "薬缶",
+  "freq",
+  {
+   "reading": "やかん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "虐める",
+  "freq",
+  {
+   "reading": "いじめる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "虫",
+  "freq",
+  {
+   "reading": "むし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "血",
+  "freq",
+  {
+   "reading": "ち",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "行う",
+  "freq",
+  {
+   "reading": "おこなう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "行き",
+  "freq",
+  {
+   "reading": "いき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "行動",
+  "freq",
+  {
+   "reading": "こうどう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "街",
+  "freq",
+  {
+   "reading": "まち",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "表",
+  "freq",
+  {
+   "reading": "ひょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "表",
+  "freq",
+  {
+   "reading": "おもて",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "袋",
+  "freq",
+  {
+   "reading": "ふくろ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "裏",
+  "freq",
+  {
+   "reading": "うら",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "複雑",
+  "freq",
+  {
+   "reading": "ふくざつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "複雑な",
+  "freq",
+  {
+   "reading": "ふくざつな",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "褒める",
+  "freq",
+  {
+   "reading": "ほめる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "見える",
+  "freq",
+  {
+   "reading": "みえる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "見つかる",
+  "freq",
+  {
+   "reading": "みつかる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "見つける",
+  "freq",
+  {
+   "reading": "みつける",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "見付かる",
+  "freq",
+  {
+   "reading": "みつかる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "見付ける",
+  "freq",
+  {
+   "reading": "みつける",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "見合い",
+  "freq",
+  {
+   "reading": "みあい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "見物",
+  "freq",
+  {
+   "reading": "けんぶつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "見舞い",
+  "freq",
+  {
+   "reading": "みまい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "規則",
+  "freq",
+  {
+   "reading": "きそく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "親友",
+  "freq",
+  {
+   "reading": "しんゆう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "親戚",
+  "freq",
+  {
+   "reading": "しんせき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "親指",
+  "freq",
+  {
+   "reading": "おやゆび",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "角",
+  "freq",
+  {
+   "reading": "かく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "計る",
+  "freq",
+  {
+   "reading": "はかる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "計画",
+  "freq",
+  {
+   "reading": "けいかく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "計算",
+  "freq",
+  {
+   "reading": "けいさん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "訪ねる",
+  "freq",
+  {
+   "reading": "たずねる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "訪問",
+  "freq",
+  {
+   "reading": "ほうもん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "設備",
+  "freq",
+  {
+   "reading": "せつび",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "許可",
+  "freq",
+  {
+   "reading": "きょか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "訳",
+  "freq",
+  {
+   "reading": "わけ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "診る",
+  "freq",
+  {
+   "reading": "みる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "詰まらない",
+  "freq",
+  {
+   "reading": "つまらない",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "詳しい",
+  "freq",
+  {
+   "reading": "くわしい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "誕生",
+  "freq",
+  {
+   "reading": "たんじょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "誘う",
+  "freq",
+  {
+   "reading": "さそう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "読み方",
+  "freq",
+  {
+   "reading": "よみかた",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "誰か",
+  "freq",
+  {
+   "reading": "だれか",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "請求",
+  "freq",
+  {
+   "reading": "せいきゅう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "論文",
+  "freq",
+  {
+   "reading": "ろんぶん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "諦める",
+  "freq",
+  {
+   "reading": "あきらめる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "講義",
+  "freq",
+  {
+   "reading": "こうぎ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "謝る",
+  "freq",
+  {
+   "reading": "あやまる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "警察",
+  "freq",
+  {
+   "reading": "けいさつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "警察官",
+  "freq",
+  {
+   "reading": "けいさつかん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "貯金",
+  "freq",
+  {
+   "reading": "ちょきん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "貼る",
+  "freq",
+  {
+   "reading": "はる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "貿易",
+  "freq",
+  {
+   "reading": "ぼうえき",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "賛成",
+  "freq",
+  {
+   "reading": "さんせい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "贈り物",
+  "freq",
+  {
+   "reading": "おくりもの",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "贈る",
+  "freq",
+  {
+   "reading": "おくる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "赤ちゃん",
+  "freq",
+  {
+   "reading": "あかちゃん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "起こす",
+  "freq",
+  {
+   "reading": "おこす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "起こる",
+  "freq",
+  {
+   "reading": "おこる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "足す",
+  "freq",
+  {
+   "reading": "たす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "距離",
+  "freq",
+  {
+   "reading": "きょり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "踊り",
+  "freq",
+  {
+   "reading": "おどり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "踏む",
+  "freq",
+  {
+   "reading": "ふむ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "身",
+  "freq",
+  {
+   "reading": "み",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "身長",
+  "freq",
+  {
+   "reading": "しんちょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "輸入",
+  "freq",
+  {
+   "reading": "ゆにゅう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "輸出",
+  "freq",
+  {
+   "reading": "ゆしゅつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "辞典",
+  "freq",
+  {
+   "reading": "じてん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "込む",
+  "freq",
+  {
+   "reading": "ごむ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "近所",
+  "freq",
+  {
+   "reading": "きんじょ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "返品",
+  "freq",
+  {
+   "reading": "へんぴん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "迷う",
+  "freq",
+  {
+   "reading": "まよう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "退院",
+  "freq",
+  {
+   "reading": "たいいん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "逃げる",
+  "freq",
+  {
+   "reading": "にげる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "逆",
+  "freq",
+  {
+   "reading": "ぎゃく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "途中",
+  "freq",
+  {
+   "reading": "とちゅう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "通す",
+  "freq",
+  {
+   "reading": "とおす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "通り",
+  "freq",
+  {
+   "reading": "とおり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "通る",
+  "freq",
+  {
+   "reading": "とおる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "通訳",
+  "freq",
+  {
+   "reading": "つうやく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "連れて行く",
+  "freq",
+  {
+   "reading": "つれていく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "連休",
+  "freq",
+  {
+   "reading": "れんきゅう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "連絡",
+  "freq",
+  {
+   "reading": "れんらく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "進む",
+  "freq",
+  {
+   "reading": "すすむ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "進める",
+  "freq",
+  {
+   "reading": "すすめる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "遅れる",
+  "freq",
+  {
+   "reading": "おくれる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "遅刻",
+  "freq",
+  {
+   "reading": "ちこく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "遊園地",
+  "freq",
+  {
+   "reading": "ゆうえんち",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "運ぶ",
+  "freq",
+  {
+   "reading": "はこぶ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "運動",
+  "freq",
+  {
+   "reading": "うんどう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "運動会",
+  "freq",
+  {
+   "reading": "うんどうかい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "運動場",
+  "freq",
+  {
+   "reading": "うんどうじょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "過ぎる",
+  "freq",
+  {
+   "reading": "すぎる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "過ごす",
+  "freq",
+  {
+   "reading": "すごす",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "過去",
+  "freq",
+  {
+   "reading": "かこ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "道具",
+  "freq",
+  {
+   "reading": "どうぐ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "達",
+  "freq",
+  {
+   "reading": "とおる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "違い",
+  "freq",
+  {
+   "reading": "ちがい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "遠慮",
+  "freq",
+  {
+   "reading": "えんりょ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "遭う",
+  "freq",
+  {
+   "reading": "あう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "選手",
+  "freq",
+  {
+   "reading": "せんしゅ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "邪魔",
+  "freq",
+  {
+   "reading": "じゃま",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "郊外",
+  "freq",
+  {
+   "reading": "こうがい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "部",
+  "freq",
+  {
+   "reading": "ぶ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "都合",
+  "freq",
+  {
+   "reading": "つごう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "配達",
+  "freq",
+  {
+   "reading": "はいたつ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "酔う",
+  "freq",
+  {
+   "reading": "よう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "酷い",
+  "freq",
+  {
+   "reading": "ひどい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "量",
+  "freq",
+  {
+   "reading": "りょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "録画",
+  "freq",
+  {
+   "reading": "ろくが",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "鍋",
+  "freq",
+  {
+   "reading": "なべ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "鍵が掛かる",
+  "freq",
+  {
+   "reading": "かぎがかかる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "鍵を掛ける",
+  "freq",
+  {
+   "reading": "かぎをかける",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "長",
+  "freq",
+  {
+   "reading": "なが",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "門",
+  "freq",
+  {
+   "reading": "もん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "閉じる",
+  "freq",
+  {
+   "reading": "とじる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "閉まる",
+  "freq",
+  {
+   "reading": "しまる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "開く",
+  "freq",
+  {
+   "reading": "あく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "間",
+  "freq",
+  {
+   "reading": "ま",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "間に合う",
+  "freq",
+  {
+   "reading": "まにあう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "間違い",
+  "freq",
+  {
+   "reading": "まちがい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "間違う",
+  "freq",
+  {
+   "reading": "まちがう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "関係",
+  "freq",
+  {
+   "reading": "かんけい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "隅",
+  "freq",
+  {
+   "reading": "すみ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "随分",
+  "freq",
+  {
+   "reading": "ずいぶん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "集まる",
+  "freq",
+  {
+   "reading": "あつまる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "雲",
+  "freq",
+  {
+   "reading": "くも",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "雷",
+  "freq",
+  {
+   "reading": "かみなり",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "電子",
+  "freq",
+  {
+   "reading": "でんし",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "電子レンジ",
+  "freq",
+  {
+   "reading": "でんしレンジ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "電源",
+  "freq",
+  {
+   "reading": "でんげん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "青空",
+  "freq",
+  {
+   "reading": "あおぞら",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "非常口",
+  "freq",
+  {
+   "reading": "ひじょうぐち",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "領収書",
+  "freq",
+  {
+   "reading": "りょうしゅうしょ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "頬",
+  "freq",
+  {
+   "reading": "ほお",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "頼む",
+  "freq",
+  {
+   "reading": "たのむ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "顎",
+  "freq",
+  {
+   "reading": "あご",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "風邪を引く",
+  "freq",
+  {
+   "reading": "かぜをひく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "食べ放題",
+  "freq",
+  {
+   "reading": "たべほうだい",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "食料",
+  "freq",
+  {
+   "reading": "しょくりょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "食料品",
+  "freq",
+  {
+   "reading": "しょくりょうひん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "飴",
+  "freq",
+  {
+   "reading": "あめ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "飼う",
+  "freq",
+  {
+   "reading": "かう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "飾る",
+  "freq",
+  {
+   "reading": "かざる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "餌",
+  "freq",
+  {
+   "reading": "えさ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "首相",
+  "freq",
+  {
+   "reading": "しゅしょう",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "駄目な",
+  "freq",
+  {
+   "reading": "だめな",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "駅前",
+  "freq",
+  {
+   "reading": "えきまえ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "騒ぐ",
+  "freq",
+  {
+   "reading": "さわぐ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "驚く",
+  "freq",
+  {
+   "reading": "おどろく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "骨",
+  "freq",
+  {
+   "reading": "ほね",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "髪型",
+  "freq",
+  {
+   "reading": "かみがた",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "髭",
+  "freq",
+  {
+   "reading": "ひげ",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "鳥肉",
+  "freq",
+  {
+   "reading": "とりにく",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "鳴る",
+  "freq",
+  {
+   "reading": "なる",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "黒板",
+  "freq",
+  {
+   "reading": "こくばん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ],
+ [
+  "１１０番",
+  "freq",
+  {
+   "reading": "ひゃくとおばん",
+   "frequency": {
+    "value": -1,
+    "displayValue": "N4"
+   }
+  }
+ ]
+]

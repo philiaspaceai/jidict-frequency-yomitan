@@ -1,0 +1,100 @@
+name: Release dictionary
+
+on:
+  push:
+    tags:
+      - "[0-9]*.[0-9]*.[0-9]*"
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Tag/revision to release (e.g. 2026.10.11). Leave empty to use latest tag on main."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Resolve tag name
+        id: tag
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ inputs.tag }}" ]; then
+            echo "name=${{ inputs.tag }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "name=${GITHUB_REF_NAME}" >> "$GITHUB_OUTPUT"
+          fi
+          echo "Tag: $(cat "$GITHUB_OUTPUT")"
+
+      - name: Sync revision in src/index.json to tag
+        run: |
+          TAG="${{ steps.tag.outputs.name }}"
+          echo "Syncing revision to $TAG"
+          python3 - "$TAG" <<'PY'
+          import json, sys
+          tag = sys.argv[1]
+          path = "src/index.json"
+          with open(path, encoding="utf-8") as f:
+              data = json.load(f)
+          data["revision"] = tag
+          # Ensure updatable fields stay correct (stable latest URLs)
+          data["isUpdatable"] = True
+          data["indexUrl"] = "https://github.com/philiaspaceai/jidict-frequency-yomitan/releases/latest/download/index.json"
+          data["downloadUrl"] = "https://github.com/philiaspaceai/jidict-frequency-yomitan/releases/latest/download/jidict-frequency-yomitan.zip"
+          with open(path, "w", encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+              f.write("\n")
+          print(json.dumps(data, ensure_ascii=False, indent=2))
+          PY
+
+      - name: Validate dictionary files
+        run: |
+          python3 <<'PY'
+          import json, glob
+          index = json.load(open("src/index.json", encoding="utf-8"))
+          assert index.get("title"), "index.json missing title"
+          assert index.get("revision"), "index.json missing revision"
+          assert index.get("format") in (1, 2, 3) or index.get("version") in (1, 2, 3), "bad format/version"
+          assert index.get("isUpdatable") is True, "isUpdatable must be true"
+          assert "indexUrl" in index and "downloadUrl" in index, "missing update URLs"
+          banks = sorted(glob.glob("src/term_meta_bank_*.json"))
+          assert banks, "no term_meta_bank files found"
+          total = 0
+          for b in banks:
+              data = json.load(open(b, encoding="utf-8"))
+              assert isinstance(data, list), f"{b} must be a list"
+              total += len(data)
+          print(f"OK: revision={index['revision']} banks={len(banks)} entries={total}")
+          PY
+
+      - name: Build dictionary zip
+        run: |
+          rm -f jidict-frequency-yomitan.zip index.json
+          cp src/index.json ./index.json
+          cd src
+          zip -9 -r ../jidict-frequency-yomitan.zip index.json term_meta_bank_*.json
+          cd ..
+          unzip -l jidict-frequency-yomitan.zip
+          ls -lh jidict-frequency-yomitan.zip index.json
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.tag.outputs.name }}
+          name: ${{ steps.tag.outputs.name }}
+          generate_release_notes: false
+          body: |
+            JIDict Frequency `${{ steps.tag.outputs.name }}` for Yomitan.
+
+            Install `jidict-frequency-yomitan.zip` via Yomitan → Dictionaries → Import.
+            Updates via Yomitan → Dictionaries → Check for Updates.
+          files: |
+            jidict-frequency-yomitan.zip
+            index.json
