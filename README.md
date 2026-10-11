@@ -45,3 +45,9 @@ Yomitan compares local `revision` with the remote `index.json` revision. If diff
 5. Users get the update via Yomitan Check for Updates (stable `latest/download` URLs).
 
 Revision format: calendar versioning `YYYY.MM.DD` (e.g. `2026.10.11`).
+
+## License
+
+Copyright (C) 2026 Philia Space Community
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. See [LICENSE](LICENSE) for details.
