@@ -1,8 +1,8 @@
 ![JIDict banner](banner.jpg)
 
-# jidict-frequency-yomitan
+# JIDict Frequency — JLPT N1–N5 Frequency Dictionary for Yomitan
 
-Yomitan frequency dictionary for JLPT (N1–N5) from JIDict.
+Indonesia's first Yomitan-format Japanese–Indonesian frequency dictionary (13,168 vocab: N1–N5) from JIDict by Philia Space Community. Works with Yomitan / Yomichan and supports auto-update via Check for Updates.
 
 [![Download JIDict](button.png)](https://github.com/philiaspaceai/jidict-frequency-yomitan/releases/latest/download/jidict-frequency-yomitan.zip)
 
