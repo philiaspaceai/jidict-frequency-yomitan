@@ -4,7 +4,7 @@
 
 Yomitan frequency dictionary for JLPT (N1–N5) from JIDict.
 
-[![Download JIDict](button.png)](https://github.com/philiaspaceai/jidict-frequency-yomitan/releases/latest)
+[![Download JIDict](button.png)](https://github.com/philiaspaceai/jidict-frequency-yomitan/releases/latest/download/jidict-frequency-yomitan.zip)
 
 ## Install
 
